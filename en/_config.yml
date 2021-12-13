@@ -4,7 +4,7 @@ subtitle: Initiative
 email: youremailaddress@gmail.com
 description: "Decyphering the impact of AI on society"
 baseurl:  /en/
-url: # the base hostname & protocol for your site
+url: https://ais-initiative.github.io/ais-test.github.io/en/
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
