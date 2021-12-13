@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Accueil
 landing-title: 'Intelligence Artificielle et Société'
 description: null
 image: null
