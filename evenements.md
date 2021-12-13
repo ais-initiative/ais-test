@@ -13,7 +13,7 @@ Des journées d'étude permettent d'aborder des questions d'éthique liées au d
 
 Trois journées d'étude ont été organisées entre mars et juillet 2021. La première journée était une réunion informelle permettant aux participants d'échanger sur leur parcours et leurs attentes vis-à-vis du groupe. Deux demi-journées thématiques ont depuis été organisées, sur :
 
-* la [prise de décision](evenements/decision.md) automatisée 
-* les [modèles de langages](evenements/modeles.md). 
+* la [prise de décision](decision.md) automatisée 
+* les [modèles de langages](modeles.md). 
 
 Les journées d'étude reprendront en janvier 2022. 
