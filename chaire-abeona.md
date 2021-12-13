@@ -1,6 +1,7 @@
 ---
 layout: generic
 title: "Chaire Abeona"
+permalink: /chaire-abeona/
 nav-menu: true
 ---
 
