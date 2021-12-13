@@ -3,7 +3,6 @@ layout: post
 permalink: /evenements/
 title: "Evènements"
 description: "Accéder aux évènements organisés par l'initiative"
-image: assets/images/default.jpg
 nav-menu: true
 ---
 
