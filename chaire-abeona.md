@@ -1,5 +1,5 @@
 ---
-layout: generic
+layout: post
 title: "Chaire Abeona"
 permalink: /chaire-abeona/
 nav-menu: true
