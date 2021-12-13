@@ -1,5 +1,5 @@
 ---
-layout: generic
+layout: post
 permalink: /decision/
 title: "Journée d'étude sur la prise de décision automatisée"
 nav-menu: true
