@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /decision/
+permalink: /decision
 title: "Journée d'étude sur la prise de décision automatisée"
 ---
 
