@@ -3,6 +3,7 @@ layout: post
 title: "A propos"
 permalink: a-propos
 nav-menu: true
+lang: fr
 ---
 
 
