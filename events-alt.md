@@ -26,17 +26,16 @@ lang: fr
         Trois journées d'étude ont été organisées entre mars et juillet 2021. La première journée était une réunion informelle permettant aux participants d'échanger sur leur parcours et leurs attentes vis-à-vis du groupe. Deux demi-journées thématiques ont depuis été organisées, sur :
         <ul>
           <li>
-            la [prise de décision](decision.md) automatisée
+            la <a href="../decision/">prise de décision</a> automatisée
           </li>
           <li>
             les <a href="../modeles/">modèles de langages</a>.
           </li>
         </ul>
-
         Les journées d'étude reprendront en janvier 2022.
       </div>
       <div class="6u 12u$(medium)">
-        <span class="image fit"><img src="../ assets/images/pic03.jpg" alt="" /></span>
+        <span class="image fit"><img src=""{% link../ assets/images/pic03.jpg%}" alt="" /></span>
       </div>
     </div>
   </div>
