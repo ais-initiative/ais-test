@@ -3,12 +3,13 @@ layout: post
 permalink: /formations/
 title: "Formations"
 description: "Accéder aux formations"
+image: assets/images/formations-dark.jpg  
 nav-menu: true
 ---
 ## Semaine intensive de cours PSL
 
 Dans le cadre des "semaines intensives PSL", un cours "Éthique et Intelligence Artificielle (EIA)" est organisé du 22 au 26 novembre 2021 (équipe pédagogique : François Goulette, Aïda Elamrani, Thierry Poibeau et Olivia Tambou). Il s'agit de sensibiliser un public essentiellement technique (informaticiens) aux points suivants  :
-* transformations profondes en cours avec la révolution numérique ; 
+* transformations profondes en cours avec la révolution numérique ;
 * cadres juridiques et règlementaires déjà existants et comment les respecter ;
 * questions éthiques ouvertes, et à la réflexion éthique pour des questions à venir.
 
