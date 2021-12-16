@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
----
-layout: page
-permalink: /events-alt/
-title: "Evènements"
-description: "Accéder aux évènements organisés par l'initiative"
-nav-menu: true
-image: assets/images/events-dark.jpg
-lang: fr
----
-
-## Journées d'étude
-=======
 ---
 layout: page
 permalink: /events-alt/
@@ -33,7 +20,7 @@ lang: fr
         la [prise de décision](decision.md) automatisée
       </li>
       <li>
-        les <a href="/modeles/">modèles de langages</a>.  
+        les <a href="/modeles/">modèles de langages</a>.
       </li>
     </ul>
 
@@ -41,4 +28,3 @@ lang: fr
     Les journées d'étude reprendront en janvier 2022.
   </div>
 </div>
->>>>>>> Stashed changes
