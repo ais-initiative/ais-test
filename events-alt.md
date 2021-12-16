@@ -9,7 +9,7 @@ lang: fr
 
 <h2> Journées d'étude </h2>
 
-<div class="row 200%>"
+<div class="row 200%">
   <div class="6u 12u$(small)">
     Des journées d'étude permettent d'aborder des questions d'éthique liées au déploiement des techniques d'intelligence artificielle dans des cadres concrets, professionnels ou grand public. Ces journées d'étude ont à l'origine été organisées dans le cadre de l'Institut 3IA Prairie, mais sont aussi ouvertes aux spécialistes hors Prairie intéressés par ces questions.
 
@@ -19,7 +19,7 @@ lang: fr
         la [prise de décision](decision.md) automatisée
       </li>
       <li>
-        les <a href="/modeles/">modèles de langages</a>.
+        les <a href="./modeles/">modèles de langages</a>.
       </li>
     </ul>
 
