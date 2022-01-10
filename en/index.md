@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-en
 title: Home
 landing-title: 'AI and Society'
 description: null
