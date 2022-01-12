@@ -3,7 +3,7 @@ layout: post
 permalink: /chaire-abeona/
 title: "Chaire Abeona"
 description: "Sur l'éthique de l'IA"
-image: assets/images/open-book-dark.jpg
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 ## Présentation
