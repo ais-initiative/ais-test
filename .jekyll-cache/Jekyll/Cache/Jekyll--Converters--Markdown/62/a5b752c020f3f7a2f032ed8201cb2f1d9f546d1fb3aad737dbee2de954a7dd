@@ -1,4 +1,16 @@
-I"V<!-- Main -->
+I"�<h2 id="journées-détude">Journées d’étude</h2>
+
+<p>Des journées d’étude permettent d’aborder des questions d’éthique liées au déploiement des techniques d’intelligence artificielle dans des cadres concrets, professionnels ou grand public. Ces journées d’étude ont à l’origine été organisées dans le cadre de l’Institut 3IA Prairie, mais sont aussi ouvertes aux spécialistes hors Prairie intéressés par ces questions.</p>
+
+<p>Trois journées d’étude ont été organisées entre mars et juillet 2021. La première journée était une réunion informelle permettant aux participants d’échanger sur leur parcours et leurs attentes vis-à-vis du groupe. Deux demi-journées thématiques ont depuis été organisées, sur :</p>
+
+<ul>
+  <li>la <a href="decision.md">prise de décision</a> automatisée</li>
+  <li>les <a href="modeles.md">modèles de langages</a>.</li>
+</ul>
+
+<p>Les journées d’étude reprendront en janvier 2022.</p>
+
 <div id="main">
 
 <!-- One -->
@@ -22,7 +34,7 @@
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p><p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p><p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p><p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

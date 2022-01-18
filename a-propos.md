@@ -28,7 +28,7 @@ Aujourd'hui, l'IA impacte directement le sort de chacun. **Nous sommes convaincu
 ## Objectifs
 Notre initiative vise à faire avancer la connaissance en matière d'éthique de l'IA, et s'adresse à tous publics, des plus novices aux plus aguerris. Nos actions consistent principalement à :
 * Combiner des expertises pluridisciplinaires afin d’analyser les problèmes soulevés le progrès de l’IA et anticiper des développements à venir.
-* Former aux enjeux de la transformation digitale.
+* Former à décrypter les enjeux de la transformation digitale.
 * Organiser des rencontres pour informer et sensibiliser le grand public sur les grandes questions posées par les nouveaux usages de l’intelligence artificielle.
 
 ## Qui sommes-nous

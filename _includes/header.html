@@ -3,12 +3,12 @@
 {% assign curr_lang = page.lang %}
 {% assign curr_langref = page.lang-ref %}
 <!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" or page.layout == "home-en" %} class="alt"{% endif %}>
 	{% if curr_lang == "fr" %}
 		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.subtitle }}</strong><span>{{ site.title }}</span> </a>
 	{% else %}
 	  <a href="{{ "" | absolute_url }}/index-en.html" class="logo"><span>{{ site.title-en }}</span><strong>{{ site.subtitle-en }}</strong> </a>
-	{% endif %}
+	{% endif %} 
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -34,10 +34,10 @@
 	<ul class="actions vertical">
 		{% if curr_lang == "fr" %}
 			{% assign eng_link = site.html_pages | where_exp: "item", "item.lang-ref==curr_langref" | where_exp: "item", "item.lang!=curr_lang" | first %}
-					<li><a href="{{ eng_link.url | absolute_url }}" class="button special fit">Switch to English</a></li>
+					<li><a href="{{ eng_link.url | absolute_url }}" class="button special fit">English</a></li>
 		{% else %}
 			{% assign fr_link = site.html_pages | where_exp: "item", "item.lang-ref==curr_langref" | where_exp: "item", "item.lang!=curr_lang" | first %}
-				<li><a href="{{ fr_link.url | absolute_url }}" class="button special fit">En Français </a></li>
+				<li><a href="{{ fr_link.url | absolute_url }}" class="button special fit">Français</a></li>
 		{% endif %}
 	</ul>
 </nav>

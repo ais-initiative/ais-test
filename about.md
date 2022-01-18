@@ -4,6 +4,7 @@ title: "About us"
 permalink: about-us
 image: assets/images/bulb.jpg
 
+
 lang: en
 lang-ref: about-us
 
@@ -12,28 +13,28 @@ order: 3
 ---
 
 
-## Notre initiative
+## Our initiative
 
-L'Intelligence Artificielle (IA) transforme profondément nos modes de vie, en s'insérant progressivement à tous les nivaux de l'écosystème humain. Comme chaque révolution technologique, elle perturbe notre équilibre moral, déstabilisé par une profusion de nouvelles opportunités aux conséquences non maîtrisées.
+Artificial Intelligence (AI) is profoundly transforming our lifestyles, gradually inserting itself at each level of the human ecosystem. Like every technological revolution, it is disrupting our moral balance, which is destabilized by a profusion of new opportunities with uncontrolled consequences.
 
-Cette technologie est déjà omniprésente, sans qu’on en soit toujours conscient. C’est évidemment le cas sur Internet (publicité ciblée, recommandations personnalisées), et plus particulièrement sur les réseaux sociaux (reconnaissance faciale, présentation d’informations en fonction du profil de l’utilisateur, …). L’IA joue aussi un rôle de plus en plus important dans tous les domaines professionnels : médical (aide au diagnostic, analyse de radio), financier (obtention d’un prêt) ou juridique (prédiction de la récidive).
+This technology is already ubiquitous, without us always being aware of it. This is obviously the case on the Internet (targeted advertising, personalized recommendations), and more particularly on social networks (facial recognition, presentation of information according to the user's profile, etc.). AI also plays an increasingly important role in all professional fields: medical (diagnostic assistance, X-ray analysis), financial (obtaining a loan) or legal (prediction of recidivism).
 
-Les avancées sont rapides, la concurrence sauvage et la législation souvent en retard face à des situations inédites, sortant du cadre national. La dématérialisation des échanges sur Internet et la faible pertinence des frontières nationales sur le réseau global compliquent la tâche. Enfin, le caractère hégémonique de certains acteurs et leur puissance financière (ainsi que le lobbying dont ils savent faire preuve) rendent les choses délicates. D’autant plus que, ces acteurs disposent d’une puissance de frappe (pour s’adapter à une nouvelle législation, par exemple) et surtout, d’une masse de données que n’ont pas les PME et les start-up essayant d’émerger dans ce paysage complexe.
+Progress is fast, competition is fierce and legislation is often lagging behind in the face of unprecedented situations, outreaching the scope of national frameworks. The dematerialization of exchanges over the Internet and the weak relevance of national borders over the global network further complicates the task. Finally, the hegemonic character of certain actors and their financial power (as well as the lobbying they can demonstrate) make things even trickier. All the more so, since these players have the power to strike (to adapt to new legislation, for example), and above all, because they have a mass of data that lack most SMEs and start-ups trying to emerge in this complex landscape.
 
-L’IA étant un domaine technique et complexe, elle est souvent confiée aux seules mains des informaticiens. Pourtant, les conséquences de ses applications relèvent de compétences beaucoup plus variées (psychologie, droit, philosophie, ...). Il est ainsi absolument nécessaire de procéder à des analyses pluridisciplinaires des problèmes qu'elle soulève. C'est pourquoi **notre initiative regroupe des chercheurs de différentes disciplines, afin de croiser leurs perspectives et de faire émerger des réponses plus innovantes, plus fouillées et plus profondes aux questions posées par les nouveaux usages de l'IA.**
+Since AI is a technical and complex field, it is often entrusted to the sole hands of computer scientists. However, the consequences of its applications fall under much more varied expertises (psychology, law, philosophy, etc.). It is therefore absolutely necessary to carry out multidisciplinary analyzes of the problems AI raises. This is why **our initiative brings together researchers from different disciplines, in order to combine their perspectives and bring out more innovative, more detailed and more profound answers to the questions posed by the new uses of AI.**
 
-Aujourd'hui, l'IA impacte directement le sort de chacun. **Nous sommes convaincus que la réflexion autour de ces technologies doit sortir du cercle restreint des spécialistes pour toucher la société entière.**  
+Today, AI has a direct impact on everyone's fate. **We are convinced that the discussions around these technologies must go beyond the restricted circle of specialists to reach society as a whole.**
 
-## Objectifs
-Notre initiative vise à faire avancer la connaissance en matière d'éthique de l'IA, et s'adresse à tous publics, des plus novices aux plus aguerris. Nos actions consistent principalement à :
-* Combiner des expertises pluridisciplinaires afin d’analyser les problèmes soulevés le progrès de l’IA et anticiper des développements à venir.
-* Former aux enjeux de la transformation digitale.
-* Organiser des rencontres pour informer et sensibiliser le grand public sur les grandes questions posées par les nouveaux usages de l’intelligence artificielle.
+## Objectives
+Our initiative aims for the advancement of knowledge in the field of AI ethics and is targeted at all audiences, from general public to experts. Our actions consist mainly in :
+* Combining pluridisciplinary expertises to analyse the issues raised by AI progress, and to anticipate future developments.
+* Training to decypher the challenges of the digital transformation.
+* Organizing meetings to inform and educate the general public on major questions raised by the new uses of artificial intelligence.      
 
-## Qui sommes-nous
+## Who are we
 
-L'initiative Intelligence Artificielle et Société est coordonnée par Aïda Elamrani et Thierry Poibeau.
+The AISI is coordinated by Aïda Elamrani and Thierry Poibeau.
 
-Aïda Elamrani est actuellement doctorante à l'Institut Jean Nicod et ingénieure de recherche au laboratoire Lattice. Ses recherches portent sur la philosophie de l'intelligence artificielle, en particulier sur la conscience artificielle et la comparaison entre l'humain et la machine.
+Aïda Elamrani is currently a PhD student at Institut Jean Nicod and research engineer at the Lattice laboratory. Her research addresses philosophy of AI, especially machine consciousness and the comparison between humans and machines.
 
-Thierry Poibeau est directeur de recherche au CNRS. Il est membre du laboratoire Lattice et titulaire d'une chaire au sein de l'Institut 3IA Prairie. Ses recherches portent sur le traitement automatique du langage naturel, les humanités numériques et les questions liées au déploiement des techniques d'intelligence artificielle (questions éthiques, influence sur le monde du travail, etc).
+Thierry Poibeau is a research director at CNRS. He is a member of the Lattice laboratory and chair within 3IA Institute Prairie. His research addresses automated natural language processing, digital humanities and questions related to the deployment of artificial intelligence (ethical questions, impact on work, etc.).

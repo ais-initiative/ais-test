@@ -2,7 +2,7 @@
 layout: post
 permalink: abeona-chair
 title: "Abeona Chair"
-description: "Sur l'éthique de l'IA"
+description: "About the ethics of AI"
 image: assets/images/open-book-dark.jpg
 
 lang: en
@@ -11,8 +11,9 @@ lang-ref: abeona-chair
 nav-menu: true
 order: 2
 ---
-## Présentation
-Cette chaire, créée il y a trois ans, permet à un(e) professeur(e) invité(e) de développer, pendant une année, des travaux sur les questions éthiques posées par le déploiement des techniques d’intelligence artificielle (IA). La chaire est hébergée par l’École normale supérieure.
+## Introduction
+This chair, created in 2019, allows an invited professor to conduct research, over a year, about ethical questions raised by AI implementations. The chair is hosted by Ecole Normale Supérieure.
 
-## Titulaires
-C'est actuellement [Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/), de l'Université de Laval au Canada qui est titulaire de la chaire. [Kate Crawford](https://www.ens.psl.eu/agenda/inauguration-de-la-chaire-invitee-abeona-ens-intelligence-artificielle-et-justice/2019-09) a été la première titulaire, lors de sa création (2019--2020).
+## Recipients
+The Abeona chair is currently held by [Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) (Université Laval, Canada) for her project “Social justice and artificial intelligence: citizen governance to reverse invisibility in algorithms and discrimination in their uses”.
+Upon its inaugural year, the chair was firstly held by [Kate Crawford](https://www.ens.psl.eu/agenda/inauguration-de-la-chaire-invitee-abeona-ens-intelligence-artificielle-et-justice/2019-09) (2019--2020).

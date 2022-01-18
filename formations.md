@@ -5,7 +5,10 @@ title: "Formations"
 description: "Accéder aux formations"
 image: assets/images/formations-dark.jpg  
 nav-menu: true
+
 lang: fr
+lang-ref: courses
+
 order: 1
 ---
 ## Semaine intensive de cours PSL
