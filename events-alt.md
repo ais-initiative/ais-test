@@ -35,7 +35,7 @@ lang: fr
         Les journées d'étude reprendront en janvier 2022.
       </div>
       <div class="6u 12u$(medium)">
-        <span class="image fit"><img src=""{% link../ assets/images/pic03.jpg%}" alt="" /></span>
+        <span class="image fit"><img src="assets/images/events.jpg" alt="" /></span>
       </div>
     </div>
   </div>

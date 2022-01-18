@@ -1,9 +1,14 @@
 <!-- Wrapper -->
 <div id="wrapper">
-
+{% assign curr_lang = page.lang %}
+{% assign curr_langref = page.lang-ref %}
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.subtitle }}</strong><span>{{ site.title }}</span> </a>
+	{% if curr_lang == "fr" %}
+		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.subtitle }}</strong><span>{{ site.title }}</span> </a>
+	{% else %}
+	  <a href="{{ "" | absolute_url }}/index-en.html" class="logo"><span>{{ site.title-en }}</span><strong>{{ site.subtitle-en }}</strong> </a>
+	{% endif %}
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -13,50 +18,26 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-		{% assign posts=site.pages | where:"lang", page.lang %}
-        {% for page in posts %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
+
+
+		{% assign curr_home  = site.html_pages | where_exp: "item", "item.layout=='home'" | where_exp: "item", "item.lang==curr_lang" %}
+		{% for page in curr_home %}
+			<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
+		{% assign ordered_pages = site.html_pages | sort: "order" %}
+		{% for page in ordered_pages %}
+		    {% if page.layout != "home" and page.nav-menu == true and curr_lang == page.lang %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
-	<!--<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Switch to English</a></li>
-	</ul>-->
+	<ul class="actions vertical">
+		{% if curr_lang == "fr" %}
+			{% assign eng_link = site.html_pages | where_exp: "item", "item.lang-ref==curr_langref" | where_exp: "item", "item.lang!=curr_lang" | first %}
+					<li><a href="{{ eng_link.url | absolute_url }}" class="button special fit">Switch to English</a></li>
+		{% else %}
+			{% assign fr_link = site.html_pages | where_exp: "item", "item.lang-ref==curr_langref" | where_exp: "item", "item.lang!=curr_lang" | first %}
+				<li><a href="{{ fr_link.url | absolute_url }}" class="button special fit">En Français </a></li>
+		{% endif %}
+	</ul>
 </nav>
-
-<!--<!-- Wrapper -->
-<!--<div id="wrapper">
-
-<!-- Header -->
-<!--<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
-</header>-->
-
-
-<!-- Menu -->
-<!--<nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>-->
-	<!-- <ul class="actions vertical">
-		<li><a href="#" class="button special fit">Switch to English</a></li>
-	</ul> -->
-<!--</nav>-->

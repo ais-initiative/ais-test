@@ -1,17 +1,14 @@
 # site settings
 title: IA & Société
 subtitle: Initiative
+description: "Initiative interdisciplinaire visant à décrypter l'impact de l'IA sur la société."
+title-en: AI & Society
+subtitle-en: Initiative
+description-en: "Interdisciplinary initiative aimed at decyphering AI's impact on society."
+
 email: youremailaddress@gmail.com
-description: "Décrypter l'impact de l'IA sur la société"
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,18 +19,18 @@ tiles-count: 4
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  GitHub:
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: 
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn:
+  Twitter: https://twitter.com/ais-initiative
   Facebook:
   Slack:
 
 # build settings
 markdown: kramdown
-remote-theme : andrewbanchich/forty-jekyll-theme 
+remote-theme: andrewbanchich/forty-jekyll-theme
 sass:
   style: compressed
 
@@ -41,4 +38,4 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
