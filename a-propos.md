@@ -6,7 +6,7 @@ description: "En apprendre plus sur cette initiative, ses objectifs, ses membres
 image: assets/images/bulb2.jpg
 
 lang: fr
-lang-ref: about
+lang-ref: about-us
 
 nav-menu: true
 order: 3
